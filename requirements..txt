@@ -1,0 +1,9 @@
+pandas
+torch
+transformers
+spacy
+gradio
+newsapi-python
+langgraph
+langchain
+uvicorn
