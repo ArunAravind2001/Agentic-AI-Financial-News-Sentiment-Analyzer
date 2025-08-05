@@ -13,7 +13,7 @@ import spacy
 from newsapi import NewsApiClient
 
 
-API_KEY = "a6c0c9d660f848cd907d6594399dced9"
+API_KEY = "YOUR_API_KEY"
 
 MODEL_NAME = "ProsusAI/finbert"
 
@@ -280,6 +280,7 @@ graph = builder.compile()
 
 
 # In[ ]:
+
 
 
 
